@@ -1,0 +1,6 @@
+﻿services:
+  contentmongo:
+    image: mongo
+
+volumes:
+  mongo_data:

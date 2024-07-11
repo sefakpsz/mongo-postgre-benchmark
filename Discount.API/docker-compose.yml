@@ -1,0 +1,6 @@
+﻿services:
+  contentpostgres:
+    image: postgres
+
+volumes:
+  postgres_data:
